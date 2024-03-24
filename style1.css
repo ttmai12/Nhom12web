@@ -1,0 +1,8 @@
+.product-description {
+    text-indent: 30px;
+}
+
+.product-image {
+    display: inline;
+    margin: 0 auto; 
+}
